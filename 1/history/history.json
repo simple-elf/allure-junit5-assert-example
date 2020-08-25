@@ -1,0 +1,170 @@
+{
+  "60131318a67500a58c1c57df1d1abd1f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8a9e1587022ac39",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/b8a9e1587022ac39",
+      "status" : "failed",
+      "statusDetails" : "assertFalse (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <false> but was: <true>\n\torg.opentest4j.AssertionFailedError: must be false ==> expected: <false> but was: <true>",
+      "time" : {
+        "start" : 1598353258400,
+        "stop" : 1598353258489,
+        "duration" : 89
+      }
+    } ]
+  },
+  "6b655f381ddcd81743f7186576396c69" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe66a3c6e1056718",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/fe66a3c6e1056718",
+      "status" : "failed",
+      "statusDetails" : "Multiple Failures (1 failure)\n\torg.opentest4j.AssertionFailedError: message ==> expected: <true> but was: <false>",
+      "time" : {
+        "start" : 1598353258620,
+        "stop" : 1598353258622,
+        "duration" : 2
+      }
+    } ]
+  },
+  "495c10f14913f78223efb996fb8c879c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b10868b4c73f2fa",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/9b10868b4c73f2fa",
+      "status" : "failed",
+      "statusDetails" : "assertNotNull (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: not <null>\n\torg.opentest4j.AssertionFailedError: must be not null ==> expected: not <null>",
+      "time" : {
+        "start" : 1598353258603,
+        "stop" : 1598353258607,
+        "duration" : 4
+      }
+    } ]
+  },
+  "841da7751feac0d2841488ec2d335ee6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7346cb3c1d1bd36",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/a7346cb3c1d1bd36",
+      "status" : "failed",
+      "statusDetails" : "assertEquals (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <1> but was: <2>\n\torg.opentest4j.AssertionFailedError: must be equals ==> expected: <1> but was: <2>",
+      "time" : {
+        "start" : 1598353258584,
+        "stop" : 1598353258589,
+        "duration" : 5
+      }
+    } ]
+  },
+  "6a406bb39e700dcef0bf6f9ad0c4f617" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df66db03a0cb1083",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/df66db03a0cb1083",
+      "status" : "failed",
+      "statusDetails" : "assertTrue (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <true> but was: <false>\n\torg.opentest4j.AssertionFailedError: must be true ==> expected: <true> but was: <false>",
+      "time" : {
+        "start" : 1598353258615,
+        "stop" : 1598353258618,
+        "duration" : 3
+      }
+    } ]
+  },
+  "317e9e24ba36f77e80e2dd59fa68cfda" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3230e326fb4caaf",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/a3230e326fb4caaf",
+      "status" : "failed",
+      "statusDetails" : "assertNotEquals (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: not equal but was: <1>\n\torg.opentest4j.AssertionFailedError: must be not equals ==> expected: not equal but was: <1>",
+      "time" : {
+        "start" : 1598353258592,
+        "stop" : 1598353258598,
+        "duration" : 6
+      }
+    } ]
+  },
+  "5c7fdbc2786b2d0f2f633e514eb32732" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99eda911457ddb9",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/99eda911457ddb9",
+      "status" : "failed",
+      "statusDetails" : "assertNull (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <null> but was: <not null>\n\torg.opentest4j.AssertionFailedError: must be null ==> expected: <null> but was: <not null>",
+      "time" : {
+        "start" : 1598353258624,
+        "stop" : 1598353258628,
+        "duration" : 4
+      }
+    } ]
+  },
+  "8f36e460d33fd6276041b495746c8728" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51ddd4bd14fc00ec",
+      "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1//#testresult/51ddd4bd14fc00ec",
+      "status" : "failed",
+      "statusDetails" : "fail (3 failures)\n\torg.opentest4j.AssertionFailedError: fail message\n\torg.opentest4j.AssertionFailedError: fail message\n\torg.opentest4j.AssertionFailedError: <no message>",
+      "time" : {
+        "start" : 1598353258610,
+        "stop" : 1598353258612,
+        "duration" : 2
+      }
+    } ]
+  }
+}

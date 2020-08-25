@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 8,
+    "retry" : 0
+  }
+} ]

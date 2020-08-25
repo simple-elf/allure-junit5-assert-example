@@ -1,0 +1,113 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "io.qameta.allure.examples.SimpleAssertTest",
+    "children" : [ {
+      "name" : "assertFalseTest",
+      "uid" : "b8a9e1587022ac39",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258400,
+        "stop" : 1598353258489,
+        "duration" : 89
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertEqualsTest",
+      "uid" : "a7346cb3c1d1bd36",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258584,
+        "stop" : 1598353258589,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertNotEqualsTest",
+      "uid" : "a3230e326fb4caaf",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258592,
+        "stop" : 1598353258598,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertNotNullTest",
+      "uid" : "9b10868b4c73f2fa",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258603,
+        "stop" : 1598353258607,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "failTest",
+      "uid" : "51ddd4bd14fc00ec",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258610,
+        "stop" : 1598353258612,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertTrueTest",
+      "uid" : "df66db03a0cb1083",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258615,
+        "stop" : 1598353258618,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertAllTest",
+      "uid" : "fe66a3c6e1056718",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258620,
+        "stop" : 1598353258622,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertNullTest",
+      "uid" : "99eda911457ddb9",
+      "parentUid" : "d47b79371a0b77e430c07f82819ed908",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353258624,
+        "stop" : 1598353258628,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "io.qameta.allure.examples.SimpleAssertTest"
+  } ],
+  "name" : "packages"
+}

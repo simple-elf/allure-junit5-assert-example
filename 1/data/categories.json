@@ -1,0 +1,145 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "assertFalse (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <false> but was: <true>\n\torg.opentest4j.AssertionFailedError: must be false ==> expected: <false> but was: <true>",
+      "children" : [ {
+        "name" : "assertFalseTest()",
+        "uid" : "b8a9e1587022ac39",
+        "parentUid" : "299d34c9a8403b2f48929f32e1a8f60e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258400,
+          "stop" : 1598353258489,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "299d34c9a8403b2f48929f32e1a8f60e"
+    }, {
+      "name" : "assertEquals (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <1> but was: <2>\n\torg.opentest4j.AssertionFailedError: must be equals ==> expected: <1> but was: <2>",
+      "children" : [ {
+        "name" : "assertEqualsTest()",
+        "uid" : "a7346cb3c1d1bd36",
+        "parentUid" : "64171af4f5f48db8bc86fdf406a37991",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258584,
+          "stop" : 1598353258589,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "64171af4f5f48db8bc86fdf406a37991"
+    }, {
+      "name" : "assertNotEquals (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: not equal but was: <1>\n\torg.opentest4j.AssertionFailedError: must be not equals ==> expected: not equal but was: <1>",
+      "children" : [ {
+        "name" : "assertNotEqualsTest()",
+        "uid" : "a3230e326fb4caaf",
+        "parentUid" : "3c1bcf6f06d7d11a192f5533102a5aa7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258592,
+          "stop" : 1598353258598,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3c1bcf6f06d7d11a192f5533102a5aa7"
+    }, {
+      "name" : "assertNotNull (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: not <null>\n\torg.opentest4j.AssertionFailedError: must be not null ==> expected: not <null>",
+      "children" : [ {
+        "name" : "assertNotNullTest()",
+        "uid" : "9b10868b4c73f2fa",
+        "parentUid" : "405d9573254aba20cafcb65fa62f29a7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258603,
+          "stop" : 1598353258607,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "405d9573254aba20cafcb65fa62f29a7"
+    }, {
+      "name" : "fail (3 failures)\n\torg.opentest4j.AssertionFailedError: fail message\n\torg.opentest4j.AssertionFailedError: fail message\n\torg.opentest4j.AssertionFailedError: <no message>",
+      "children" : [ {
+        "name" : "failTest()",
+        "uid" : "51ddd4bd14fc00ec",
+        "parentUid" : "22a4e213b645cba9cd53f6898795b079",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258610,
+          "stop" : 1598353258612,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "22a4e213b645cba9cd53f6898795b079"
+    }, {
+      "name" : "assertTrue (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <true> but was: <false>\n\torg.opentest4j.AssertionFailedError: must be true ==> expected: <true> but was: <false>",
+      "children" : [ {
+        "name" : "assertTrueTest()",
+        "uid" : "df66db03a0cb1083",
+        "parentUid" : "14b20939819cb4d89a024cafa0c085db",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258615,
+          "stop" : 1598353258618,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "14b20939819cb4d89a024cafa0c085db"
+    }, {
+      "name" : "Multiple Failures (1 failure)\n\torg.opentest4j.AssertionFailedError: message ==> expected: <true> but was: <false>",
+      "children" : [ {
+        "name" : "assertAllTest()",
+        "uid" : "fe66a3c6e1056718",
+        "parentUid" : "e53351dbee5ff109a07302180501c778",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258620,
+          "stop" : 1598353258622,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e53351dbee5ff109a07302180501c778"
+    }, {
+      "name" : "assertNull (2 failures)\n\torg.opentest4j.AssertionFailedError: expected: <null> but was: <not null>\n\torg.opentest4j.AssertionFailedError: must be null ==> expected: <null> but was: <not null>",
+      "children" : [ {
+        "name" : "assertNullTest()",
+        "uid" : "99eda911457ddb9",
+        "parentUid" : "aefc547e1c172a9ee4bcdab63c5558ad",
+        "status" : "failed",
+        "time" : {
+          "start" : 1598353258624,
+          "stop" : 1598353258628,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aefc547e1c172a9ee4bcdab63c5558ad"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

@@ -1,0 +1,81 @@
+[ {
+  "uid" : "b8a9e1587022ac39",
+  "name" : "assertFalseTest()",
+  "time" : {
+    "start" : 1598353258400,
+    "stop" : 1598353258489,
+    "duration" : 89
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b10868b4c73f2fa",
+  "name" : "assertNotNullTest()",
+  "time" : {
+    "start" : 1598353258603,
+    "stop" : 1598353258607,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "99eda911457ddb9",
+  "name" : "assertNullTest()",
+  "time" : {
+    "start" : 1598353258624,
+    "stop" : 1598353258628,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7346cb3c1d1bd36",
+  "name" : "assertEqualsTest()",
+  "time" : {
+    "start" : 1598353258584,
+    "stop" : 1598353258589,
+    "duration" : 5
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe66a3c6e1056718",
+  "name" : "assertAllTest()",
+  "time" : {
+    "start" : 1598353258620,
+    "stop" : 1598353258622,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "df66db03a0cb1083",
+  "name" : "assertTrueTest()",
+  "time" : {
+    "start" : 1598353258615,
+    "stop" : 1598353258618,
+    "duration" : 3
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "51ddd4bd14fc00ec",
+  "name" : "failTest()",
+  "time" : {
+    "start" : 1598353258610,
+    "stop" : 1598353258612,
+    "duration" : 2
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3230e326fb4caaf",
+  "name" : "assertNotEqualsTest()",
+  "time" : {
+    "start" : 1598353258592,
+    "stop" : 1598353258598,
+    "duration" : 6
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
