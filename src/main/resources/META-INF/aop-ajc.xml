@@ -2,6 +2,6 @@
     <weaver options="-warn:none -Xlint:ignore"/>
     <aspects>
         <aspect name="io.qameta.allure.junit5assert.AllureJunit5Assert2"/>
-        <exclude within="io.qameta.allure.junit5assert.AllureJunit5Assert2"/>
+        <exclude within="io.qameta.allure.junit5assert.AllureJunit5Assert"/>
     </aspects>
 </aspectj>
