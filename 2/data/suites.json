@@ -1,0 +1,113 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "io.qameta.allure.examples.SimpleAssertTest",
+    "children" : [ {
+      "name" : "assertFalseTest()",
+      "uid" : "223e3b984523d165",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562618,
+        "stop" : 1598353562692,
+        "duration" : 74
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertEqualsTest()",
+      "uid" : "41269fde3090aa89",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562780,
+        "stop" : 1598353562789,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertNotEqualsTest()",
+      "uid" : "ef0a29c075ca436e",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562819,
+        "stop" : 1598353562830,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertNotNullTest()",
+      "uid" : "b9fc4d0bfedcde73",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562847,
+        "stop" : 1598353562850,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "failTest()",
+      "uid" : "60ac4334d827147c",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562858,
+        "stop" : 1598353562862,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertTrueTest()",
+      "uid" : "21ecfd31f3dee4fd",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562876,
+        "stop" : 1598353562893,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertAllTest()",
+      "uid" : "f00b8711c6429a4a",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562901,
+        "stop" : 1598353562905,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "assertNullTest()",
+      "uid" : "cac54d1af161e798",
+      "parentUid" : "a2540b67b87781c190739bb2121bb944",
+      "status" : "failed",
+      "time" : {
+        "start" : 1598353562921,
+        "stop" : 1598353562928,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a2540b67b87781c190739bb2121bb944"
+  } ],
+  "name" : "suites"
+}

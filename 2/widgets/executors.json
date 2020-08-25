@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://simple-elf.github.io/allure-junit5-assert-example",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #223546351",
+  "buildUrl" : "https://github.com/simple-elf/allure-junit5-assert-example/actions/runs/223546351",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://simple-elf.github.io/allure-junit5-assert-example/2/"
+} ]
